@@ -96,6 +96,7 @@
       </plugin>
       <plugin>
         <!-- Integration tests are run by failsafe. -->
+	      <!hello-->
         <!-- Classes under src/test/java called *IT are included automatically. -->
         <!-- Integration tests are run during the verify phase. -->
         <groupId>org.apache.maven.plugins</groupId>
